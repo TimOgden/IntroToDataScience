@@ -1,0 +1,7 @@
+{
+  "name": "lab08: pandas", 
+  "endpoint": "bu/math247-cs207/fa19/lab08", 
+  "src": ["lab08.ipynb"], 
+  "tests": {"tests/q*.py": "ok_test"}, 
+  "protocols": ["file_contents", "grading", "backup"]
+}
