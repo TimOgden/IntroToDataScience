@@ -1,0 +1,1 @@
+{"name": "hw10", "endpoint": "bu/math247-cs207/fa19/hw10", "src": ["hw10.ipynb"], "tests": {"tests/q*.py": "ok_test"}, "protocols": ["file_contents", "grading", "backup"]}
